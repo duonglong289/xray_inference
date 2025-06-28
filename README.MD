@@ -26,7 +26,7 @@ Download the model weights from the following link:
 
 [model_faster_rcnn.ts](https://drive.google.com/file/d/1Pb_6_HSHn5oLq5jBwgFx9y8_FRsNDhxE/view?usp=drive_link)
 
-Place the downloaded weights in the same directory as the script.
+Place the downloaded weights in the same directory as this repository.
 
 ### 3. Run Server
 
